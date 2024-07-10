@@ -232,6 +232,14 @@ a {
 .features-list {
   width: calc((100% - 72px) / 4);
 }
+.features-icon-group,
+.features-icon-clock,
+.features-icon-diagram,
+.features-icon-astronaut {
+}
+
+.icon-group {
+}
 
 .features-title {
   font-weight: 500;
