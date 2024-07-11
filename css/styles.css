@@ -426,7 +426,7 @@ a {
 }
 .footer-social-container {
   display: flex;
-  align-items: flex-start;
+  align-items: baseline;
 }
 .footer-studio {
   margin-right: 120px;
@@ -476,5 +476,11 @@ a {
   color: #fff;
   margin-bottom: 16px;
 }
+.icon-link-footer:hover {
+  background-color: #31d0aa;
 
+}
+.icon-link-footer:focus {
+  background-color: #31d0aa;
 
+}
