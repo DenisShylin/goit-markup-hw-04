@@ -222,7 +222,6 @@ a {
 /* SECTION FEATURES */
 .section-features {
   padding: 120px 0;
-  margin-bottom: 120px;
 }
 .container-features {
 
@@ -235,10 +234,7 @@ a {
 
 .features-list {
   width: calc((100% - 72px) / 4);
-  background: #f4f4fd;
-  border-radius: 4px;
-  height: 112px;
-  margin-bottom: 8px;
+  
 }
 
 .icon-fuateres-container {
@@ -265,13 +261,8 @@ a {
 .features-title {
   font-weight: 500;
   font-size: 20px;
-
   color: #2e2f42;
   margin-bottom: 8px;
-  margin-top: 8px;
-}
-
-.features-title {
   line-height: 1.5;
   letter-spacing: 0.02em;
 }
